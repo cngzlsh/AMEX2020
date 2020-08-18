@@ -1,0 +1,260 @@
+Country,City,Airport,Notes,Refs
+Armenia,Gyumri,Shirak Airport,,[2]
+Armenia,Yerevan,Zvartnots International Airport,,[2]
+Austria,Salzburg,Salzburg Airport,,
+Austria,Vienna,Vienna International Airport,Base,
+Belgium,Charleroi,Brussels South Charleroi Airport,Base,[3]
+Belgium,Brussels,Brussels Airport,Base,
+Belgium,Ostend,Ostend–Bruges International Airport,Terminated,[4]
+Bosnia and Herzegovina,Banja Luka,Banja Luka International Airport,,
+Bulgaria,Burgas,Burgas Airport,Seasonal Base,[5]
+Bulgaria,Plovdiv,Plovdiv Airport,,
+Bulgaria,Sofia,Sofia Airport,Base,
+Bulgaria,Varna,Varna Airport,Seasonal,[6]
+Croatia,Dubrovnik,Dubrovnik Airport,Seasonal,
+Croatia,Osijek,Osijek Airport,Terminated,[7]
+Croatia,Pula,Pula Airport,Seasonal,
+Croatia,Rijeka,Rijeka Airport,Seasonal,
+Croatia,Split,Split Airport,Seasonal,
+Croatia,Zadar,Zadar Airport,Seasonal,
+Cyprus,Larnaca,Larnaca International Airport,,
+Cyprus,Paphos,Paphos International Airport,Base,
+Czechia,Brno,Brno–Tuřany Airport,,
+Czechia,Ostrava,Leoš Janáček Airport Ostrava,,
+Czechia,Pardubice,Pardubice Airport,Seasonal,[8]
+Czechia,Prague,Václav Havel Airport Prague,Base,
+Denmark,Aalborg,Aalborg Airport,,[8]
+Denmark,Aarhus,Aarhus Airport,,
+Denmark,Billund,Billund Airport,,
+Denmark,Copenhagen,Copenhagen Airport,,
+Estonia,Tallinn,Tallinn Airport,,
+Finland,Helsinki,Helsinki Airport,,
+Finland,Lappeenranta,Lappeenranta Airport,,
+Finland,Tampere,Tampere–Pirkkala Airport,Seasonal,[9]
+Finland,Turku,Turku Airport,Terminated,[4]
+France,Bergerac,Bergerac Dordogne Périgord Airport,,
+France,Béziers,Béziers Cap d'Agde Airport,,
+France,Biarritz,Biarritz Pays Basque Airport,,[10]
+France,Bordeaux,Bordeaux–Mérignac Airport,Base,
+France,Brest,Brest Bretagne Airport,,
+France,Brive-la-Gaillarde,Brive–Souillac Airport,,
+France,Carcassonne,Carcassonne Airport,,
+France,Clermont-Ferrand,Clermont-Ferrand Auvergne Airport,,
+France,Deauville,Deauville – Normandie Airport,Terminated,[11]
+France,Dole,Dole–Jura Airport,,
+France,Figari,Figari–Sud Corse Airport,Seasonal,
+France,Grenoble,Grenoble–Isère Airport,Seasonal,
+France,La Rochelle,La Rochelle – Île de Ré Airport,,
+France,Lille,Lille Airport,,
+France,Limoges,Limoges – Bellegarde Airport,,
+France,Lorient,Lorient South Brittany Airport,,
+France,Lourdes Tarbes,Tarbes–Lourdes–Pyrénées Airport,,
+France,Lyon,Lyon-Saint-Exupéry Airport,,
+France,Marseille,Marseille Provence Airport,Base,[12]
+France,Montpellier,Montpellier–Méditerranée Airport,,
+France,Nantes,Nantes Atlantique Airport,,
+France,Nice,Nice Côte d'Azur Airport,,
+France,Nîmes,Nîmes-Alès-Camargue-Cévennes Airport,,
+France,Paris,Beauvais–Tillé Airport,,
+France,Paris,Châlons Vatry Airport,,[1][13]
+France,Perpignan,Perpignan–Rivesaltes Airport,,
+France,Poitiers,Poitiers–Biard Airport,,
+France,Rodez,Rodez–Marcillac Airport,Seasonal,
+France,Saint-Étienne,Saint-Étienne–Bouthéon Airport,Terminated,
+France,Saint-Malo Dinard,Dinard–Pleurtuit–Saint-Malo Airport,,
+France,Strasbourg,Strasbourg Airport,,[14]
+France,Toulouse,Toulouse–Blagnac Airport,Base,[15]
+France,Tours,Tours Val de Loire Airport,,
+Georgia,Kutaisi,David the Builder Kutaisi International Airport,,
+Georgia,Tbilisi,Tbilisi International Airport,,[16]
+Germany,Berlin,Berlin Schönefeld Airport,Base,[17]
+Germany,Berlin,Berlin Tegel Airport,Base,
+Germany,Bremen,Bremen Airport,Base,
+Germany,Cologne Bonn,Cologne Bonn Airport,Base,
+Germany,Dortmund,Dortmund Airport,,
+Germany,Dresden,Dresden Airport,,
+Germany,Düsseldorf,Düsseldorf Airport,Base,
+Germany,Düsseldorf,Weeze Airport,Base,[1][13]
+Germany,Frankfurt,Frankfurt Airport,Base,[18]
+Germany,Hahn,Frankfurt–Hahn Airport,Base,[1][13]
+Germany,Hamburg,Hamburg Airport,Base,
+Germany,Hamburg,Lübeck Airport,Terminated,
+Germany,Hanover,Hannover Airport,Terminated,
+Germany,Karlsruhe Baden-Baden,Karlsruhe/Baden-Baden Airport,Base,
+Germany,Leipzig Halle,Leipzig/Halle Airport,Terminated,
+Germany,Memmingen,Memmingen Airport,,
+Germany,Munich,Munich Airport,,
+Germany,Münster,Münster Osnabrück International Airport,Terminated,
+Germany,Nuremberg,Nuremberg Airport,Base,
+Germany,Paderborn,Paderborn Lippstadt Airport,Terminated,
+Germany,Stuttgart,Stuttgart Airport,Base,
+Greece,Athens,Athens International Airport,Base,
+Greece,Chania,Chania International Airport,Base,
+Greece,Corfu,Corfu International Airport,Seasonal,
+Greece,Heraklion,Heraklion International Airport,Seasonal,
+Greece,Kalamata,Kalamata International Airport,Seasonal,
+Greece,Kavala,Kavala International Airport,Terminated,
+Greece,Kefalonia,Kefalonia International Airport,Seasonal,
+Greece,Kos,Kos International Airport,Seasonal,
+Greece,Mykonos,Mykonos Airport,Seasonal,
+Greece,Preveza/Lefkada,Aktion National Airport,Seasonal,
+Greece,Rhodes,Rhodes International Airport,Seasonal,
+Greece,Santorini,Santorini (Thira) International Airport,Seasonal,
+Greece,Thessaloniki,Thessaloniki Airport,Base,
+Greece,Zakynthos,Zakynthos International Airport,Seasonal,
+Hungary,Budapest,Budapest Ferenc Liszt International Airport,Base,
+Ireland,Cork,Cork Airport,Base,
+Ireland,Dublin,Dublin Airport,Base,
+Ireland,Galway,Galway Airport,Terminated,[4]
+Ireland,Kerry,Kerry Airport,,
+Ireland,Knock,Ireland West Airport Knock,,
+Ireland,Shannon,Shannon Airport,Base,
+Ireland,Waterford,Waterford Airport,Terminated,[4]
+Israel,Eilat,Ramon Airport,Seasonal,[19]
+Israel,Ovda,Ovda Airport,Terminated,[20]
+Israel,Tel Aviv,Ben Gurion Airport,,[21]
+Italy,Alghero,Alghero-Fertilia Airport,,[22]
+Italy,Ancona,Marche Airport,,[23]
+Italy,Bari,Bari Karol Wojtyła Airport,Base,
+Italy,Bologna,Bologna Guglielmo Marconi Airport,Base,
+Italy,Brindisi,Brindisi – Salento Airport,Base,
+Italy,Cagliari,Cagliari Elmas Airport,Base,
+Italy,Catania,Catania–Fontanarossa Airport,Base,
+Italy,Comiso,Comiso Airport,,
+Italy,Crotone,Crotone Airport,,
+Italy,Cuneo,Cuneo Airport,,
+Italy,Genoa,Genoa Airport,,
+Italy,Lamezia Terme,Lamezia Terme International Airport,Base,
+Italy,Milan,Milan Malpensa Airport,Base,
+Italy,Milan,Orio al Serio International Airport,Base,[24][1][13]
+Italy,Naples,Naples International Airport,Base,[25][26]
+Italy,Olbia,Olbia Costa Smeralda Airport,Terminated,
+Italy,Palermo,Falcone–Borsellino Airport,Base,
+Italy,Parma,Parma Airport,,
+Italy,Perugia,Perugia San Francesco d'Assisi – Umbria International Airport,,
+Italy,Pescara,Abruzzo Airport,,[22]
+Italy,Pisa,Pisa International Airport,Base,
+Italy,Rimini,Federico Fellini International Airport,Seasonal,
+Italy,Rome,Ciampino–G. B. Pastine International Airport,Base,
+Italy,Rome,Leonardo da Vinci–Fiumicino Airport,Base,
+Italy,Trapani,Vincenzo Florio Airport Trapani–Birgi,Base,
+Italy,Trieste,Trieste – Friuli Venezia Giulia Airport,,
+Italy,Turin,Turin Airport,,
+Italy,Venice,Venice Marco Polo Airport,,
+Italy,Venice,Treviso Airport,,
+Italy,Verona,Verona Villafranca Airport,,
+Jordan,Amman,Queen Alia International Airport,,
+Jordan,Aqaba,King Hussein International Airport,Seasonal,
+Latvia,Riga,Riga International Airport,,
+Lebanon,Beirut,Beirut Rafic Hariri International Airport,,
+Lithuania,Kaunas,Kaunas Airport,Base,
+Lithuania,Palanga,Palanga International Airport,,
+Lithuania,Vilnius,Vilnius Airport,Base,
+Luxembourg,Luxembourg City,Luxembourg Airport,Base,
+Malta,Valletta Luqa,Malta International Airport,Base,
+Montenegro,Podgorica,Podgorica Airport,,
+Morocco,Agadir,Agadir–Al Massira Airport,,
+Morocco,Casablanca,Mohammed V International Airport,Terminated,
+Morocco,Essaouira,Essaouira-Mogador Airport,,
+Morocco,Fez,Fes–Saïss Airport,Base,
+Morocco,Marrakesh,Marrakesh Menara Airport,Base,
+Morocco,Nador,Nador International Airport,,
+Morocco,Ouarzazate,Ouarzazate Airport,,
+Morocco,Oujda,Angads Airport,,
+Morocco,Rabat,Rabat–Salé Airport,,
+Morocco,Tangier,Tangier Ibn Battouta Airport,,
+Netherlands,Amsterdam,Amsterdam Airport Schiphol,,[27]
+Netherlands,Eindhoven,Eindhoven Airport,Base,
+Netherlands,Maastricht,Maastricht Aachen Airport,,
+Norway,Haugesund,Haugesund Airport,,
+Norway,Oslo,Oslo Gardermoen Airport,,
+Norway,Oslo,"Sandefjord Airport, Torp",,
+Norway,Rygge,"Moss Airport, Rygge",Terminated,[4]
+Poland,Bydgoszcz,Bydgoszcz Ignacy Jan Paderewski Airport,,
+Poland,Gdańsk,Gdańsk Lech Wałęsa Airport,Base,
+Poland,Katowice,Katowice Airport,Base,
+Poland,Kraków,Kraków John Paul II International Airport,Base,
+Poland,Łódź,Łódź Władysław Reymont Airport,,
+Poland,Lublin,Lublin Airport,,
+Poland,Olsztyn,Olsztyn-Mazury Airport,,
+Poland,Poznań,Poznań–Ławica Airport,Base,
+Poland,Rzeszów,Rzeszów–Jasionka Airport,,
+Poland,Szczecin,"""Solidarity"" Szczecin–Goleniów Airport",,
+Poland,Warsaw,Warsaw Chopin Airport,Base,
+Poland,Warsaw,Warsaw Modlin Airport,Base,
+Poland,Wrocław,Copernicus Airport Wrocław,Base,
+Portugal,Faro,Faro Airport,Base,
+Portugal,Lisbon,Lisbon Airport,Base,
+Portugal,Ponta Delgada,João Paulo II Airport,Base,
+Portugal,Porto,Francisco de Sá Carneiro Airport,Base,
+Portugal,Terceira Island,Lajes Airport,,
+Romania,Bucharest,Henri Coandă International Airport,Base,[28]
+Romania,Cluj,Avram Iancu Cluj International Airport,,
+Romania,Craiova,Craiova International Airport,Terminated,
+Romania,Oradea,Oradea International Airport,Terminated,[29]
+Romania,Timișoara,Timișoara Traian Vuia International Airport,,[30]
+Serbia,Niš,Niš Constantine the Great Airport,,
+Slovakia,Bratislava,Bratislava Airport,Base,[31]
+Slovakia,Košice,Košice International Airport,Seasonal,
+Spain,Alicante,Alicante–Elche Airport,Base,
+Spain,Almería,Almería Airport,Seasonal,
+Spain,Barcelona,Josep Tarradellas Barcelona–El Prat Airport,Base,
+Spain,Bilbao,Bilbao Airport,,
+Spain,Castellón,Castellón–Costa Azahar Airport,,[32]
+Spain,Ciudad Real,Ciudad Real Central Airport,Terminated,[33]
+Spain,Fuerteventura,Fuerteventura Airport,,
+Spain,Girona,Girona–Costa Brava Airport,,[34]
+Spain,Ibiza,Ibiza Airport,Seasonal Base,
+Spain,Jerez de la Frontera,Jerez Airport,,
+Spain,Lanzarote,Lanzarote Airport,,[34]
+Spain,Las Palmas,Gran Canaria Airport,,[34]
+Spain,Madrid,Adolfo Suárez Madrid–Barajas Airport,Base,
+Spain,Málaga,Málaga Airport,Base,
+Spain,Menorca,Menorca Airport,Seasonal,
+Spain,Murcia,Región de Murcia International Airport,,
+Spain,Murcia,Murcia-San Javier Airport,Terminated,[4]
+Spain,Palma de Mallorca,Palma de Mallorca Airport,Base,
+Spain,Reus,Reus Airport,,
+Spain,Santander,Santander Airport,,
+Spain,Santiago de Compostela,Santiago de Compostela Airport,Base,
+Spain,Seville,Seville Airport,Base,
+Spain,Tenerife,Tenerife North Airport,,
+Spain,Tenerife,Tenerife South Airport,,[34]
+Spain,Valencia,Valencia Airport,Base,
+Spain,Valladolid,Valladolid Airport,,
+Spain,Vigo,Vigo–Peinador Airport,Terminated,[35]
+Spain,Vitoria-Gasteiz,Vitoria Airport,,
+Spain,Zaragoza,Zaragoza Airport,,
+Sweden,Gothenburg,Göteborg Landvetter Airport,Base,[36]
+Sweden,Malmö,Malmö Airport,,
+Sweden,Stockholm,Stockholm Skavsta Airport,Base,
+Sweden,Stockholm,Stockholm Västerås Airport,,
+Sweden,Växjö,Växjö Småland Airport,,
+Switzerland  France  Germany,Basel MulhouseFreiburg,EuroAirport Basel Mulhouse Freiburg,,
+Turkey,Bodrum,Milas–Bodrum Airport,Seasonal,[37]
+Turkey,Dalaman,Dalaman Airport,Seasonal,
+Ukraine,Kharkiv,Kharkiv International Airport,,
+Ukraine,Kiev,Boryspil International Airport,,
+Ukraine,Lviv,Lviv Danylo Halytskyi International Airport,,
+Ukraine,Odesa,Odesa International Airport,,
+United Kingdom,Aberdeen,Aberdeen Airport,,
+United Kingdom,Belfast,Belfast International Airport,Base,[38]
+United Kingdom,Birmingham,Birmingham Airport,Base,
+United Kingdom,Bournemouth,Bournemouth Airport,Base,
+United Kingdom,Bristol,Bristol Airport,Base,
+United Kingdom,Cardiff,Cardiff Airport,,
+United Kingdom,Derry,City of Derry Airport,,
+United Kingdom,East Midlands,East Midlands Airport,Base,
+United Kingdom,Edinburgh,Edinburgh Airport,Base,
+United Kingdom,Exeter,Exeter Airport,,[39]
+United Kingdom,Glasgow,Glasgow Airport,Base,
+United Kingdom,Glasgow,Glasgow Prestwick Airport,Base,
+United Kingdom,Leeds / Bradford,Leeds Bradford Airport,Base,
+United Kingdom,Liverpool,Liverpool John Lennon Airport,Base,
+United Kingdom,London,Gatwick Airport,,
+United Kingdom,London,London Southend Airport,,
+United Kingdom,London,London Stansted Airport,Base,
+United Kingdom,London,Luton Airport,Base,
+United Kingdom,Manchester,Manchester Airport,Base,
+United Kingdom,Newcastle upon Tyne,Newcastle International Airport,,
+United Kingdom,Newquay,Newquay Airport,,
