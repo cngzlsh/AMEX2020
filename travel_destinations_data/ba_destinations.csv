@@ -36,12 +36,12 @@ Canada,Toronto,Toronto Pearson International Airport,Passenger,
 Canada,Vancouver,Vancouver International Airport,Passenger,
 Cayman Islands,George Town,Owen Roberts International Airport,Passenger,
 Chile,Santiago,Comodoro Arturo Merino Benítez International Airport,Passenger,[5][11]
-China (Mainland),Beijing,Beijing Capital International Airport,Terminated,[12]
-China (Mainland),Beijing,Beijing Daxing International Airport (Suspended)[13],Passenger,[12]
-China (Mainland),Chengdu,Chengdu Shuangliu International Airport,Terminated,[14]
-China (Mainland),Shanghai,Shanghai Pudong International Airport (Suspended)[15],Passenger,
+China,Beijing,Beijing Capital International Airport,Terminated,[12]
+China,Beijing,Beijing Daxing International Airport (Suspended)[13],Passenger,[12]
+China,Chengdu,Chengdu Shuangliu International Airport,Terminated,[14]
+China,Shanghai,Shanghai Pudong International Airport (Suspended)[15],Passenger,
 Colombia,Bogotá,El Dorado International Airport,Terminated,[4]:60
-Costa Rica,San José,Juan Santamaría International Airport,Passenger,[4]:60[16]
+Costa Rica,San Jose,Juan Santamaría International Airport,Passenger,[4]:60[16]
 Croatia,Dubrovnik,Dubrovnik Airport,Passenger,
 Croatia,Pula,Pula Airport,Seasonal,[17]
 Croatia,Zagreb,Zagreb Airport,Passenger,[18]
@@ -85,7 +85,7 @@ Germany,Berlin,Berlin Tegel Airport,Passenger,
 Germany,Bremen,Bremen Airport,Terminated,[5]
 Germany,Cologne,Cologne Bonn Airport,Passenger,[31]
 Germany,Dresden,Dresden Airport,Terminated,[4]:60
-Germany,Düsseldorf,Düsseldorf Airport,Passenger,
+Germany,Dusseldorf,Düsseldorf Airport,Passenger,
 Germany,Frankfurt,Frankfurt Airport,Passenger + Cargo,[8]
 Germany,Friedrichshafen,Friedrichshafen Airport,Seasonal,[4]:60[26]
 Germany,Hamburg,Hamburg Airport,Passenger,
@@ -108,7 +108,7 @@ Greece,Thessaloniki,Thessaloniki Airport,Seasonal,
 Greece,Zakynthos,Zakynthos International Airport,Seasonal,[17]
 Grenada,St. George,Maurice Bishop International Airport,Passenger,
 Guernsey,Saint Peter Port,Guernsey Airport,Terminated,[5]
-Hong Kong SAR,Hong Kong,Hong Kong International Airport,Passenger + Cargo,[8]
+Hong Kong,Hong Kong,Hong Kong International Airport,Passenger + Cargo,[8]
 Hungary,Budapest,Budapest Ferenc Liszt International Airport,Passenger,
 Iceland,Reykjavík,Keflavík International Airport,Passenger,[37]
 India,Bangalore,Kempegowda International Airport,Passenger,
