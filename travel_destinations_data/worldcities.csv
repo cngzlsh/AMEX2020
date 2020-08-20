@@ -140,7 +140,7 @@ Quezon City,Quezon City,14.6504,121.03,Philippines,PH,PHL,Quezon,admin,2761720,1
 Katowice,Katowice,50.2604,19.02,Poland,PL,POL,Śląskie,admin,2746000,1616798495
 Aleppo,Aleppo,36.23,37.17,Syria,SY,SYR,Ḩalab,admin,2738000,1760366651
 Durban,Durban,-29.865,30.98,South Africa,ZA,ZAF,KwaZulu-Natal,,2729000,1710149138
-Kyiv,Kyiv,50.4334,30.5166,Ukraine,UA,UKR,"Kyyiv, Misto",primary,2709000,1804382913
+Kyiv,Kiev,50.4334,30.5166,Ukraine,UA,UKR,"Kyyiv, Misto",primary,2709000,1804382913
 Lucknow,Lucknow,26.855,80.915,India,IN,IND,Uttar Pradesh,admin,2695000,1356891790
 Giza,Giza,30.01,31.19,Egypt,EG,EGY,Al Jīzah,admin,2681863,1818925479
 Zhengzhou,Zhengzhou,34.755,113.6651,China,CN,CHN,Henan,admin,2636000,1156183137
@@ -392,7 +392,7 @@ Beidao,Beidao,34.6,105.92,China,CN,CHN,Gansu,minor,1225000,1156137209
 Shuangshui,Shuangshui,26.5944,104.8333,China,CN,CHN,Guizhou,,1221000,1156070389
 Düsseldorf,Dusseldorf,51.2204,6.78,Germany,DE,DEU,North Rhine-Westphalia,admin,1220000,1276615258
 Gaozhou,Gaozhou,21.9204,110.87,China,CN,CHN,Guangdong,,1217715,1156785303
-Sevilla,Sevilla,37.405,-5.98,Spain,ES,ESP,Andalusia,admin,1212045,1724991838
+Sevilla,Seville,37.405,-5.98,Spain,ES,ESP,Andalusia,admin,1212045,1724991838
 Amritsar,Amritsar,31.64,74.87,India,IN,IND,Punjab,,1212000,1356926507
 Vila Velha,Vila Velha,-20.3676,-40.318,Brazil,BR,BRA,Espírito Santo,,1209091,1076404077
 Vila Velha,Vila Velha,3.2167,-51.2167,Brazil,BR,BRA,Amapá,,1209091,1076575691
@@ -704,7 +704,7 @@ Xuanzhou,Xuanzhou,30.9525,118.7553,China,CN,CHN,Anhui,,866000,1156424311
 Bandar Lampung,Bandar Lampung,-5.43,105.27,Indonesia,ID,IDN,Lampung,admin,865000,1360243491
 Rizhao,Rizhao,35.4304,119.45,China,CN,CHN,Shandong,minor,865000,1156032841
 Palermo,Palermo,38.125,13.35,Italy,IT,ITA,Sicilia,admin,863000,1380428434
-Caerdydd,Caerdydd,51.5,-3.225,United Kingdom,GB,GBR,Cardiff,admin,861400,1826362422
+Caerdydd,Cardiff,51.5,-3.225,United Kingdom,GB,GBR,Cardiff,admin,861400,1826362422
 Tampico,Tampico,22.3,-97.87,Mexico,MX,MEX,Tamaulipas,minor,859419,1484060031
 Jiaozuo,Jiaozuo,35.25,113.22,China,CN,CHN,Henan,,857000,1156157854
 Padang,Padang,-0.96,100.36,Indonesia,ID,IDN,Sumatera Barat,admin,855000,1360900986
@@ -998,7 +998,7 @@ Yangzhou,Yangzhou,32.4,119.43,China,CN,CHN,Jiangsu,,539715,1156818601
 Novokuznetsk,Novokuznetsk,53.75,87.115,Russia,RU,RUS,Kemerovskaya Oblast’,,539616,1643628717
 Latakia,Latakia,35.54,35.78,Syria,SY,SYR,Al Lādhiqīyah,admin,539147,1760555544
 Heroica Matamoros,Heroica Matamoros,25.88,-97.5,Mexico,MX,MEX,Tamaulipas,minor,538785,1484614906
-Göteborg,Goteborg,57.75,12,Sweden,SE,SWE,Västra Götaland,admin,537797,1752059374
+Göteborg,Gotenburg,57.75,12,Sweden,SE,SWE,Västra Götaland,admin,537797,1752059374
 Ōtsu,Otsu,35.0064,135.8674,Japan,JP,JPN,Shiga,admin,536976,1392164106
 Tomsk,Tomsk,56.495,84.975,Russia,RU,RUS,Tomskaya Oblast’,admin,535479,1643258928
 Linxia Chengguanzhen,Linxia Chengguanzhen,35.6,103.2,China,CN,CHN,Gansu,minor,534555,1156043522
@@ -2248,7 +2248,7 @@ Anda,Anda,46.4,125.32,China,CN,CHN,Heilongjiang,minor,181533,1156142150
 Gastonia,Gastonia,35.2494,-81.1853,United States,US,USA,North Carolina,,180974,1840013468
 Hinthada,Hinthada,17.6483,95.4679,Burma,MM,MMR,Ayeyawady,,180728,1104524588
 Gangneung,Gangneung,37.7559,128.8962,"Korea, South",KR,KOR,Gangwon,minor,180611,1410450550
-Castellón de la Plana,Castellon de la Plana,39.9704,-0.05,Spain,ES,ESP,Valencia,minor,180610,1724579885
+Castellón de la Plana,Castellón,39.9704,-0.05,Spain,ES,ESP,Valencia,minor,180610,1724579885
 Funtua,Funtua,11.5204,7.32,Nigeria,NG,NGA,Katsina,minor,180475,1566877863
 El Jadid,El Jadid,33.2604,-8.51,Morocco,MA,MAR,Casablanca-Settat,,180470,1504964063
 Reggio di Calabria,Reggio di Calabria,38.115,15.6414,Italy,IT,ITA,Calabria,minor,180353,1380630212
@@ -8473,7 +8473,7 @@ Zvishavane,Zvishavane,-20.3296,30.05,Zimbabwe,ZW,ZWE,Masvingo,,35896,1716895095
 Yalutorovsk,Yalutorovsk,56.6736,66.2983,Russia,RU,RUS,Tyumenskaya Oblast’,,35892,1643158086
 Valuyki,Valuyki,50.2091,38.0987,Russia,RU,RUS,Belgorodskaya Oblast’,,35887,1643337970
 Pennsauken,Pennsauken,39.9649,-75.0563,United States,US,USA,New Jersey,,35863,1840081687
-Douglas,Douglas,54.1504,-4.48,Isle Of Man,IM,IMN,,,35854,1833688345
+Douglas,Isle of Man,54.1504,-4.48,Isle Of Man,IM,IMN,,,35854,1833688345
 Shawnee,Shawnee,35.3525,-96.9647,United States,US,USA,Oklahoma,,35833,1840021785
 Atbasar,Atbasar,51.8219,68.3477,Kazakhstan,KZ,KAZ,Aqmola,,35819,1398900162
 Bettendorf,Bettendorf,41.5656,-90.4764,United States,US,USA,Iowa,,35813,1840007079
