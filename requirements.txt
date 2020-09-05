@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+math
+statistics
+mpl_toolkits
+time
+requests
+urllib
+sklearn
+plotly
+monkeylearn
