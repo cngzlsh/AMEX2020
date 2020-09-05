@@ -602,7 +602,7 @@ Hagåtña,Hagta,13.4745,144.7504,Guam,GU,GUM,,primary,1051,1316937540
 Al Quds,Al Quds,31.7764,35.2269,West Bank,XW,XWB,,primary,,1934000006
 Philipsburg,Philipsburg,18.0255,-63.045,Sint Maarten,SX,SXM,,primary,,1534859858
 Gitega,Gitega,-3.4271,29.9246,Burundi,BI,BDI,Gitega,primary,,1108778000
-Pristina,Pristina,42.6666,21.1724,Kosovo,XK,XKS,Prishtinë,primary,,1901760068
+Pristina,Pristina,42.6666,21.1724,Kosovo,XK,XKS,Prishtinë,primary,204721,1901760068
 Ngerulmud,Ngerulmud,7.5,134.6242,Palau,PW,PLW,Melekeok,primary,,1585525081
 Aden,Aden,12.7797,45.0095,Yemen,YE,YEM,‘Adan,admin,1000000,1887867886
 Cochabamba,Cochabamba,-17.41,-66.17,Bolivia,BO,BOL,Cochabamba,admin,1000000,1068793894
@@ -5366,7 +5366,7 @@ East Ham,East Ham,51.5333,0.05,United Kingdom,GB,GBR,Newham,admin,,1826587417
 Oroquieta,Oroquieta,8.4859,123.8048,Philippines,PH,PHL,Misamis Occidental,admin,,1608239509
 Camberwell,Camberwell,51.4736,-0.0916,United Kingdom,GB,GBR,Southwark,admin,,1826778761
 Walthamstow,Walthamstow,51.6,-0.0333,United Kingdom,GB,GBR,Waltham Forest,admin,,1826009890
-Đà Nẵng,Da Nang,16.0748,108.224,Vietnam,VN,VNM,Đà Nẵng,admin,,1704949870
+Đà Nẵng,Da Nang,16.0748,108.224,Vietnam,VN,VNM,Đà Nẵng,admin,1134310,1704949870
 Catarman,Catarman,12.4989,124.6377,Philippines,PH,PHL,Northern Samar,admin,,1608432162
 City of Westminster,City of Westminster,51.5,-0.1167,United Kingdom,GB,GBR,Westminster,admin,,1826759011
 Lambeth,Lambeth,51.5,-0.1167,United Kingdom,GB,GBR,Lambeth,admin,,1826545364
@@ -5807,7 +5807,7 @@ Isale,Isale,-3.3489,29.4839,Burundi,BI,BDI,Bujumbura Rural,admin,,1108407022
 P’yŏngsŏng,P'yongsong,39.2464,125.8719,"Korea, North",KP,PRK,P’yŏngnam,admin,,1408000381
 Luqa,Luqa,35.8589,14.4886,Malta,MT,MLT,Luqa,admin,,1470901810
 Basse-Terre,Basse-Terre,16,-61.7167,Guadeloupe,GP,GLP,,admin,,1312938008
-Scarborough,Scarborough,11.1811,-60.7333,Trinidad and Tobago,TT,TTO,Tobago,admin,,1780875399
+Scarborough,Scarborough,11.1811,-60.7333,Trinidad and Tobago,TT,TTO,Tobago,admin,17537,1780875399
 Birendranagar,Birendranagar,28.5967,81.6166,Nepal,NP,NPL,,admin,,1524574121
 Diego Martin,Diego Martin,10.7208,-61.5662,Trinidad And Tobago,TT,TTO,Diego Martin,admin,,1780534918
 Vladičin Han,Vladicin Han,42.7082,22.0664,Serbia,RS,SRB,Vladičin Han,admin,,1688664018
@@ -6096,7 +6096,7 @@ Butaleja,Butaleja,0.9166,33.9563,Uganda,UG,UGA,Butaleja,admin,,1800859767
 Zugdidi,Zugdidi,42.5088,41.8709,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,admin,,1268300325
 Tarrafal,Tarrafal,15.2833,-23.7667,Cabo Verde,CV,CPV,Tarrafal,admin,,1132834308
 Sakété,Sakete,6.7362,2.6587,Benin,BJ,BEN,Plateau,admin,,1204601704
-Tivat,Tivat,42.4364,18.6961,Montenegro,ME,MNE,Tivat,admin,,1499952005
+Tivat,Tivat,42.4364,18.6961,Montenegro,ME,MNE,Tivat,admin,14031,1499952005
 Lovrenc na Pohorju,Lovrenc na Pohorju,46.5406,15.3931,Slovenia,SI,SVN,Lovrenc na Pohorju,admin,,1705376318
 Ruggell,Ruggell,47.2408,9.5247,Liechtenstein,LI,LIE,Ruggell,admin,,1438787609
 Pesnica pri Mariboru,Pesnica pri Mariboru,46.6069,15.6767,Slovenia,SI,SVN,Pesnica,admin,,1705389455
@@ -6265,7 +6265,7 @@ Benedikt v Slovenskih Goricah,Benedikt v Slovenskih Goricah,46.6086,15.8883,Slov
 Studeničani,Studenicani,41.9158,21.5306,Macedonia,MK,MKD,Studeničani,admin,,1807047160
 Krong Kep,Krong Kep,10.4829,104.3167,Cambodia,KH,KHM,Kep,admin,,1116392544
 Sant Julià de Lòria,Sant Julia de Loria,42.4664,1.4933,Andorra,AD,AND,Sant Julià de Lòria,admin,,1020885733
-Palanga,Palanga,55.9203,21.071,Lithuania,LT,LTU,Palangos Miestas,admin,,1440868798
+Palanga,Palanga,55.9203,21.071,Lithuania,LT,LTU,Palangos Miestas,admin,16038,1440868798
 Faetano,Faetano,43.9261,12.4981,San Marino,SM,SMR,Faetano,admin,,1674994606
 Buyende,Buyende,1.1517,33.155,Uganda,UG,UGA,Buyende,admin,,1800567800
 João Teves,Joao Teves,15.0669,-23.5892,Cabo Verde,CV,CPV,São Lourenço dos Órgãos,admin,,1132758433

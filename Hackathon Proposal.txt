@@ -1,0 +1,32 @@
+LONELY PLANET AUTOMATED CHATBOT FOR ADVISING CUSTOMERS
+goal: to build a chatbot that can advise customers on possible travel plans
+
+1. Front-end
+    Cannot suggest much about this... probably build a GUI using tkinter (I only know about this) or PyQt and then compile into an application using PyInstaller, alternatively build a web application using Django (I have no experience with this)
+
+2. Back-end
+    2.1 The chatbot
+        2.1.1 decide what the chatbot can respond to (i.e. greeting, destination, date and duration, cost etc.)
+        2.1.2 build a dictionary (json) of these catagories and possible user commands
+        	i.e. for catagory 'greeting':
+        	command = ['Hello!', 'How are you', 'How do you do', 'What's up'], response =  ['Hey!'] 
+        When the user types in the command 'How are you':
+        2.1.3 NLP:
+        Word preprocessing: stemming, tokenisation, Word2vec - can use public libraries such as GloVe?
+        2.1.4 recognise user commands
+        compare 'How are you' vectors with the vectors of our json catagories and return the most probable catagory that the user is talking about - use cosine distance? this should give  'greeting'
+        2.1.5 returns and saving information (if any) in order to give prediction (See 2.2)
+        this should return 'Hey!' to the user
+        possible simplification: only give the user options rather than have them talking
+        
+    2.2 Giving user travel plan recommmendation(s):
+    	2.2.1 gather a list of travel destination data (We can only hope that we can find some public dataset on Kaggle)
+    	this should be a list of destinations with quantified features 
+		 example:
+		 [dest='Monte-Carlo', 'sea view' = 10, 'mountain view'=0, 'luxury'=8, 'history_and_culture'=0, 'cost'=8]
+    	    	 [dest='Alps', 'sea_view'=2, 'mountain_view'=10, 'luxury'=6, 'history_and_culture'=0, 'cost'=6]
+    	    	 [dest='Krakau', 'sea_view'=0, 'mouyntain_view'=0, 'luxury'=3, 'history_and_culture'=8, 'cost'=3]
+    	2.2.2 construct an artifitial neural network and train on the dataset in 2.2.1
+    	2.2.3 feed the user's command received in chatbot into the neural network and return a list of recommendations
+    	2.2.4 compare this with what lonely planet can provide (might require API access or database queries using SQL)
+    	2.2.5 give user recommendations!
