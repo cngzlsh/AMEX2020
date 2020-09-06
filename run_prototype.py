@@ -154,4 +154,6 @@ print('\n')
 countries = dest_df['Country'].to_list()
 cities = dest_df['City'].to_list()
 
-print(f'OK! Based on your information, I highly recommand {cities[0]} in {countries[0]}. It is the perfect place for you!')
+print(f'OK! Based on your information, I highly recommend {cities[0]} in {countries[0]}. It is the perfect place for you!')
+print(f"If you don't like this place, I also recommend these destinations, have a look:\n{cities[1]}, {countries[1]}\n{cities[2]}, {countries[2]}\n{cities[3]}, {countries[3]}" )
+print('For more information and deals, please visit Lonely Planet website.')
