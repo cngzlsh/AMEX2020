@@ -10,26 +10,6 @@ var all_dest = fs.readFileSync('./features/data.csv')
     .map(e => e.split(',').map(e => e.trim()));
 console.log(Number(all_dest[1][6])); // test read
 
-
-// initialise parameters
-
-var CostVector = 0;
-var CultureVector = 0;
-var CultureWeight = 0;
-var WaterVector = 0;
-var WaterWeight = 0;
-var MountainVector = 0;
-var MountainWeight = 0;
-var NightlifeVector = 0;
-var NightlifeWeight = 0;
-var score = 0;
-var first_city = '';
-var first_country = '';
-var second_city = '';
-var second_country = '';
-var third_city = '';
-var third_country = '';
-
 // main dialog
 
 module.exports = function( controller ) {
@@ -43,11 +23,11 @@ module.exports = function( controller ) {
     // asking cost
     convo.addAction('Cost');
     convo.addMessage('OK, {{vars.name}}, First question:', 'Cost');
-    convo.addQuestion('Are you looking for somewhere luxurious? (yes/no)' , [
+    convo.addQuestion('Are you looking for somewhere luxurious?' , [
         {
-            pattern: 'yes',
+            pattern: 'yes|yeah|of course|definitely|absolutely',
             handler: async(response, convo, bot) => {
-                CostVector = 100;
+                var CostVector = 100;
                 console.log(`cost is ${CostVector}`)
                 await bot.say('Nice! Looks like someone is ready to splash some cash!')
                 return await convo.gotoThread('Culture');
@@ -56,7 +36,7 @@ module.exports = function( controller ) {
         {
             pattern: 'no',
             handler: async(response, convo, bot) => {
-                CostVector = 0;
+                var CostVector = 0;
                 await bot.say('Travelling on a budget is great fun!')
                 return await convo.gotoThread('Culture');
             }
@@ -73,9 +53,9 @@ module.exports = function( controller ) {
     
     // asking culture
     convo.addAction('Culture');
-    convo.addQuestion('Are you interested in culture and history, {{vars.name}}? (yes/no/idm)', [
+    convo.addQuestion('Are you interested in culture and history, {{vars.name}}? (Hint: You can type \'idm\' if you do not really care about this option)', [
         {
-            pattern: 'yes',
+            pattern: 'yes|yeah|of course|definitely|absolutely',
             handler: async(response, convo, bot) => {
                 CultureVector = 100;
                 CultureWeight = 1;
@@ -110,9 +90,9 @@ module.exports = function( controller ) {
 
     // asking waterscape
      convo.addAction('Water');
-     convo.addQuestion('Do you want to go somewhere near water, such as lakeside or seaside? (yes/no/idm)', [
+     convo.addQuestion('Do you want to go somewhere near water, such as lakeside or seaside?', [
         {
-            pattern: 'yes',
+            pattern: 'yes|yeah|of course|definitely|absolutely',
             handler: async(response, convo, bot) => {
                 WaterVector = 100;
                 WaterWeight = 1;
@@ -148,9 +128,9 @@ module.exports = function( controller ) {
 
     // asking mountain
     convo.addAction('Mountain');
-    convo.addQuestion('Are you a big fan of mountains, {{vars.name}}? This means plenty of opportunities to go skiing, hiking and climbing. (yes/no/idm)', [
+    convo.addQuestion('Are you a big fan of mountains, {{vars.name}}? This means plenty of opportunities to go skiing, hiking and climbing.', [
         {
-            pattern: 'yes',
+            pattern: 'yes|yeah|of course|definitely|absolutely',
             handler: async(response, convo, bot) => {
                 MountainVector = 100;
                 MountainWeight = 1;
@@ -186,9 +166,9 @@ module.exports = function( controller ) {
     // asking nightlife
     convo.addAction('Nightlife');
     convo.addMessage('Final question!', 'Nightlife');
-    convo.addQuestion('Do you want to travel somewhere vibrant, with plenty of restaurants, bars and nightlife? (yes/no/idm)', [
+    convo.addQuestion('Do you want to travel somewhere vibrant, with plenty of restaurants, bars and nightlife?', [
         {
-            pattern: 'yes',
+            pattern: 'yes|yeah|of course|definitely|absolutely',
             handler: async(response, convo, bot) => {
                 NightlifeVector = 100;
                 NightlifeWeight = 1;
@@ -275,6 +255,23 @@ module.exports = function( controller ) {
 
 
     controller.hears( 'begin', 'message,direct_message', async( bot, message ) => {
-    await bot.beginDialog( 'recommender' );
+        // initialise parameters
+        CostVector = 0;
+        CultureVector = 0;
+        CultureWeight = 0;
+        WaterVector = 0;
+        WaterWeight = 0;
+        MountainVector = 0;
+        MountainWeight = 0;
+        NightlifeVector = 0;
+        NightlifeWeight = 0;
+        score = 0;
+        first_city = '';
+        first_country = '';
+        second_city = '';
+        second_country = '';
+        third_city = '';
+        third_country = '';
+        await bot.beginDialog( 'recommender' );
     });
 };
